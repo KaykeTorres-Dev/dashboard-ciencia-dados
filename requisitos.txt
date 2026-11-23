@@ -1,0 +1,8 @@
+# Dependências do dashboard (app.py)
+# Testado com: streamlit 1.67, pandas 3.0, plotly 7.1, matplotlib 3.11
+
+streamlit >= 1.30
+pandas >= 2.0
+plotly >= 5.18
+matplotlib >= 3.7
+jinja2 >= 3.1
